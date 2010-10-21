@@ -5,11 +5,12 @@ Provides multiupload functionality for articles.
 
 The following features for raptus.article are provided by this package:
 
-    * Installs collective.uploadify
+Misc
+----
     * Adds "Upload" tab for articles
 
-Dependencies:
-
+Dependencies
+------------
     * raptus.article.files
     * raptus.article.images
     * collective.uploadify 
@@ -55,7 +56,5 @@ select multiple files or images which you can upload in one step.
 Copyright and credits
 =====================
 
-raptus.article is copyrighted by raptus_, and licensed under the GPL. 
+raptus.article is copyrighted by `Raptus AG <http://raptus.com>`_ and licensed under the GPL. 
 See LICENSE.txt for details.
-
-.. _raptus: http://raptus.com/ 
