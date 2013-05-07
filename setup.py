@@ -5,7 +5,7 @@ version = '2.0b5.dev0'
 
 setup(name='raptus.article.upload',
       version=version,
-      description="Provides multiupload functionality for articles using collective.uploadify",
+      description="Provides multiupload functionality for articles using collective.quickupload",
       long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "MANUAL.txt")).read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
