@@ -38,4 +38,13 @@
       run_deps="True"
       />
 
+    <genericsetup:upgradeDepends
+      title="Upgrades raptus.article.upload to 2.0b5"
+      source="11"
+      destination="12"
+      profile="raptus.article.upload:default"
+      import_profile="raptus.article.upload:default"
+      run_deps="False"
+      />
+
 </configure>

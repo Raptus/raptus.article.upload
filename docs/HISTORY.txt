@@ -4,6 +4,7 @@ Changelog
 2.0b5 (unreleased)
 ------------------
 
+* Fixed available_expr of upload action to not raise an exception if the upload view is not available
 * Fixed package description
 
 
