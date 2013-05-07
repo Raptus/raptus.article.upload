@@ -1,7 +1,7 @@
 Changelog
 =========
 
-2.0b4 (unreleased)
+2.0b4 (2013-05-07)
 ------------------
 
 * Replaced collective.uploadify by collective.quickupload
