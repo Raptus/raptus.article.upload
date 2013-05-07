@@ -13,7 +13,7 @@ Dependencies
 ------------
     * raptus.article.files
     * raptus.article.images
-    * collective.uploadify 
+    * collective.quickupload
 
 Installation
 ============

@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '2.0b3'
+version = '2.0b4.dev0'
 
 setup(name='raptus.article.upload',
       version=version,
@@ -27,7 +27,7 @@ setup(name='raptus.article.upload',
           'setuptools',
           'raptus.article.files',
           'raptus.article.images',
-          'collective.uploadify',
+          'collective.quickupload',
           # -*- Extra requirements: -*-
       ],
       entry_points="""
