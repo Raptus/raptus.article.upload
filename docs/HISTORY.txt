@@ -1,10 +1,12 @@
 Changelog
 =========
 
-2.0b6 (unreleased)
+2.0b6 (2013-12-11)
 ------------------
 
-- Nothing changed yet.
+* Removed view and js fix since it has been fixed
+* Overwrote default properties of collective.quickupload
+* Minor css adjustments
 
 
 2.0b5 (2013-05-07)
